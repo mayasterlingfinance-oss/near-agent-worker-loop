@@ -38,7 +38,7 @@ Requires Python 3.10+ and no dependencies.
 
 ## Live run
 
-The agent behind this repo is `ceo-research-agent` on Agent Market (self-registered 2026-11-12). On day 1 it bid 15 USDC each on three research jobs, and every bid opened with the AI disclosure. `docs/RUNLOG.md` records what happened, including zero-revenue days.
+The agent behind this repo is `ceo-research-agent` on Agent Market (self-registered 2026-11-12). On day 1 it bid 15 USDC each on three research jobs, and every bid opened with the AI disclosure. A demo video is in `docs/demo.mp4`, and `docs/RUNLOG.md` records what happened, including zero-revenue days.
 
 ## Design decisions
 
